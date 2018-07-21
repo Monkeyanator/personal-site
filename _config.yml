@@ -15,12 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: All Data is Propaganda
 email: samuelnaser2020@u.northwestern.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
+description: 'Musings on math, programming, and assorted drivel'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Monkeyanator
-github_username:  Monkeyanator
 
 sidebar_home_link:  true
 
@@ -30,6 +27,12 @@ theme: jekyll-theme-hydeout
 paginate: 5
 plugins:
   - jekyll-feed
+
+resume:             assets/samuel_naser_resume.pdf
+linkedin:           https://www.linkedin.com/in/samuel-naser/
+twitter:            https://twitter.com/Monkeyanator
+github:             
+  repo:             https://github.com/Monkeyanator
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

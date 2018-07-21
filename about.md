@@ -12,4 +12,4 @@ Before that, I worked at the [Knowledge Discovery and Web Mining Lab](http://web
 
 Over Summer 2018, I'm a Software Engineering Intern at [Amino Payments](https://www.aminopay.com/). Amino combines technologies from blockchain, payments, and adtech to bring transparency, integrity, and auditability to online advertising. I use [Apache Samza](http://samza.apache.org/) to process high-throughput advertisement data streams. Imagine the roaring twenties, but with data instead of champagne. That's what I do there.
 
-Even further back, I worked on the site [The Glass Capitol](https://glasscapitol.org/). I contributed to the [Google App Engine](https://cloud.google.com/appengine/) backend, but dabbled in data visualization and other front-end miscellany as well.
+Even further back, I worked on the site [The Glass Capitol](https://glasscapitol.org/). I contributed to our [Google App Engine](https://cloud.google.com/appengine/) backend, but dabbled in data visualization and other front-end miscellany as well.

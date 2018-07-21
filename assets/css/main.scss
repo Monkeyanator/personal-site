@@ -6,9 +6,13 @@
 $sidebar-bg-color: #ac4142;
 $link-color: #ac4142;
 
-#site-title.font-size {
-    font-size: 1.00rem !important;
-    line-height: 1.00 !important;
+.site-title {
+    font-size: 2.30rem !important;
+    line-height: 1.15 !important;
 };
+
+p.lead {
+    font-size: 1.00rem !important;
+}
 
 @import "hydeout";
