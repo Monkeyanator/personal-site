@@ -3,6 +3,8 @@
 # only main files contain this front matter, not partials.
 ---
 
+@import "{{ site.theme }}";
+
 $sidebar-bg-color: #ac4142;
 $link-color: #ac4142;
 
@@ -10,5 +12,3 @@ $link-color: #ac4142;
     font-size: 1.00rem !important;
     line-height: 1.00 !important;
 };
-
-@import "hydeout";
