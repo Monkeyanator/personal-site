@@ -28,7 +28,7 @@ paginate: 5
 plugins:
   - jekyll-feed
 
-repository: https://github.com/Monkeyanator/personal-site
+repository: Monkeyanator/personal-site
 
 resume:             assets/samuel_naser_resume.pdf
 linkedin:           https://www.linkedin.com/in/samuel-naser/
