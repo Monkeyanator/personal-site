@@ -17,7 +17,7 @@ title: All Data is Propaganda
 email: samuelnaser2020@u.northwestern.edu
 description: 'Musings on math, programming, and assorted drivel'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://samnaser.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 sidebar_home_link:  true
 
@@ -36,14 +36,4 @@ twitter:            https://twitter.com/Monkeyanator
 github:             
   repo:             https://github.com/Monkeyanator
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+google_analytics: UA-122713044-1
