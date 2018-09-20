@@ -4,7 +4,7 @@ title: Going, going, Google
 excerpt_separator:  <!--more-->
 ---
 
-![Me at Google Global Headquarters]({{ "/assets/images/android_statue.jpg" | absolute_url }})
+![Me at Google HQ]({{ "/assets/images/anroid_statue.jpg" | absolute_url }})
 
 Google decided it would be a sound decision to pick me up as an intern on their Cloud team, and so here I'll be for the next three months! The work is interesting, as is this strange, far-flung state. 
 
