@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: All Data is Propaganda
+title: Long Story Short It's Done
 email: samuelnaser2020@u.northwestern.edu
 description: 'Sam Naser on math, programming, and other assorted drivel'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://samnaser.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://samnaser.com" 
 
 sidebar_home_link:  true
 
