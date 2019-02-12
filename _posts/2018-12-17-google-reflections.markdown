@@ -13,7 +13,7 @@ Kubernetes is complicated. Not all hard problems have simple solutions, and Kube
 1) Making containers talk to each other is hard  
 2) Heck, making **computers** talk to each other is hard  
 3) Managing and provisioning VMs is hard  
-4) Making forever-valid API guarantees is hard
+4) Making forever-valid API guarantees is hard  
 5) Declarative cluster state management (while awesome) makes reasoning about system behavior hard  
 6) Service discovery is hard  
 7) etc. etc. etc.  

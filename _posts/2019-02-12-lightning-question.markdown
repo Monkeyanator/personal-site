@@ -29,7 +29,7 @@ $$ \frac{3600-\frac{50*50}{2}-\frac{55*55}{2}}{3600} = \frac{3600-1250-1512.5}{3
 
 Here, we can use the same exact principle from before. There's really not a single difference in it's application to the lightning problem as I laid it out.
 
-The total area of the region will again be $$ n^2 $$ units. The region carved out will be $$ \frac{1}{2}((n-x)^2 + (n-y)^2) $$ 
+The total area of the region will again be $$ n^2 $$ units. The region carved out will be $$ \frac{(n-x)^2 + (n-y)^2}{2} $$ 
 
 Therefore, the overall odds of her **missing** the lightning should be:
 
