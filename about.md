@@ -8,7 +8,7 @@ sidebar_link: true
 
 My name is Sam, and I like working on hard problems. The two hardest problems I've come across are those of making people communciate and making computers communicate.
 
-Over Fall 2018, I was a Software Engineering Intern at Google. I worked on the Kubernetes Node Team, where [I introduced a distributed tracing model](https://github.com/kubernetes/enhancements/pull/650) into open-source Kubernetes. As part of this work, I also [wrote a mutating admission webhook](https://github.com/kubernetes-sigs/mutating-trace-admission-controller) which injects a trace context annotation into objectsg, and which was adopted as an official sig-instrumentation project.
+Over Fall 2018, I was a Software Engineering Intern at Google. I worked on the Kubernetes Node Team, where [I introduced a distributed tracing model](https://github.com/kubernetes/enhancements/pull/650) into open-source Kubernetes. As part of this work, I also [wrote a mutating admission webhook](https://github.com/kubernetes-sigs/mutating-trace-admission-controller) which injects a trace context annotation into objects, and which was adopted as an official sig-instrumentation project.
 
 Over Summer 2018, I was a Software Engineering Intern at [Amino Payments](https://www.aminopay.com/). I used [Apache Samza](http://samza.apache.org/) to process high-throughput advertisement transaction streams, as well as other backend-related tasks.
 
@@ -18,4 +18,4 @@ Before that, I worked at the [Knowledge Discovery and Web Mining Lab](http://web
 
 Even further back, I worked on the site [The Glass Capitol](https://glasscapitol.org/). I contributed to our [Google App Engine](https://cloud.google.com/appengine/) backend, but dabbled in data visualization and other front-end miscellany as well.
 
-I will be starting as a Software Engineering Intern at [Belvedere Trading](http://www.belvederetrading.com/) in January, 2019.
+I started as a Software Engineering Intern at [Belvedere Trading](http://www.belvederetrading.com/) in January, 2019.
