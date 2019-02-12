@@ -13,9 +13,9 @@ Kubernetes is complicated. Not all hard problems have simple solutions, and Kube
 1) Making containers talk to each other is hard  
 2) Heck, making **computers** talk to each other is hard  
 3) Managing and provisioning VMs is hard  
-4) Making backwards-compatible API guarantees that will last until the Sun consumes the Earth is hard  
+4) Making forever-valid API guarantees is hard
 5) Declarative cluster state management (while awesome) makes reasoning about system behavior hard  
-6) Service discovery is *really* hard  
+6) Service discovery is hard  
 7) etc. etc. etc.  
 
 I mean, taken together, this stuff is so hard to do right that it keeps thousands upon thousands of people around the world in well-paid work. So, in a nutshell: if the goal is to make a single tool to handle all the hard parts of deploying software, it's going to end up being pretty complicated. Complicated to the point that no single person can understand the whole picture (unless that person is Tim Hockin).
