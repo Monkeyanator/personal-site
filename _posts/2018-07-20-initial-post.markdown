@@ -15,10 +15,10 @@ Present in that blog were a shocking number of references to [Master Oogway](htt
 > Drop by drop, pain which could not forget fell upon my heart, but in the throes if my despair, I found wisdom. 
 > Master Oogway had come to me, in his turtle form, and delivered his timeless truths. I ate from the juicy mango of his knowledge until it was only a pit that remained in my shriveled and dripping hands.
 
-I honestly don't remember myself being *that* weird, but there it is. I definitely had an apter knowledge of CGI turtles, and probably knew more ActionScript back then.
+I honestly don't remember myself being *that* weird, but there it is. I definitely had an apter knowledge of CGI turtles, and knew more ActionScript back then.
 
 ### More relevant
 
-I'm rambling slightly, but I thought I'd situate this blog in the context of its predecessor. Since then I've gone to a few different colleges, had a few different jobs. I like to think I've learned a few things. I'm now deposited in a room in West Philadelphia, a few brick avenues from the Schuylkill.
+Never a bad idea to situate a thing in the context of its predecessor, and so there's the context. Since then I've gone to a few different colleges, had a few different jobs. I like to think I've learned a few things. I'm now deposited in a room in West Philadelphia, a few brick avenues from the Schuylkill.
 
 The point of this site: I have opinions, on tech and otherwise, and like to share them in some cases. Let this blog then handle those cases.
